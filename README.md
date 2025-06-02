@@ -104,4 +104,4 @@ The fastest way to combine your favorite tools and APIs to build the fastest sit
  `gatsby new react-first`
 
  ### Strt Project 
- `npm start`
+ `gatsby develop`
