@@ -103,5 +103,11 @@ The fastest way to combine your favorite tools and APIs to build the fastest sit
 ### For Create New Project #####
  `gatsby new react-first`
 
- ### Strt Project 
+ ### Strt Project ###
  `gatsby develop`
+
+ ### Clean Project ###
+ `gatsby clean`
+
+  ### Production Build ###
+ `gatsby build`

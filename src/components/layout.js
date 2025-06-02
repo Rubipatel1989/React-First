@@ -9,9 +9,10 @@ const Layout = ({ children }) => (
                 <Navbar.Brand as={Link} to="/">MyWebsite</Navbar.Brand>
                 <Nav className="ms-auto">
                     <Nav.Link as={Link} to="/">Home</Nav.Link>
-                    <Nav.Link as={Link} to="/products">Products</Nav.Link>
-                    <Nav.Link as={Link} to="/pricing">Pricing</Nav.Link>
-                    <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+                    <Nav.Link as={Link} to="/products-page">Products</Nav.Link>
+                    <Nav.Link as={Link} to="/pricing-page">Pricing</Nav.Link>
+                    <Nav.Link as={Link} to="/contact-page">Contact</Nav.Link>
+                    <Nav.Link as={Link} to="/about-page">About</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
